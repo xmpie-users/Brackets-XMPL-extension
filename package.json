@@ -1,0 +1,27 @@
+{
+    "name": "xmpie.xmpl.brackets-extension",
+    "title": "XMPie XMPL Brackets extension",
+    "description": "Provides XMPie XMPL code snippets and code hints for Brackets",
+    "homepage": "https://github.com/XMPieLab/SOMEWHERE",
+    "version": "0.0.2",
+    "author": "XMPie Users Everywhere",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "i18n": [
+        "en", 
+        "fr",
+		"de"
+    ],
+    "package-i18n": {
+        "fr": {
+            "title": "XMPie XMPL Brackets extension",
+            "description": "Un guide sur la façon de localiser votre poste."
+        },
+		"de": {
+			"title": "XMPie XMPL Brackets-Erweiterung",
+			"description": "Stellt XMPie XMPL-Codeausschnitte und Codehinweise für Brackets"
+		}
+    }
+}
