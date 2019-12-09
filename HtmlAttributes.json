@@ -275,6 +275,7 @@
 	"ng-repeat":          { "attribOption": [] , "global": "true" },
 	"ng-show":            { "attribOption": [] , "global": "true" },
 	"ng-style":           { "attribOption": [] , "global": "true" },
+	"ng-src":				{"attribOption": []},
 	"ng-swipe-left":      { "attribOption": [] , "global": "true" },
 	"ng-swipe-right":     { "attribOption": [] , "global": "true" },
 	"ng-switch":          { "attribOption": [] , "global": "true" },
@@ -371,5 +372,6 @@
 	"xmp-signout":		        	{ "attribOption": [], "type": "flag" },
 	"xmp-clicked-trigger":			{ "attribOption": [] },
 	"xmp-facebook-share":			{ "attribOption": [], "type": "flag" },
-	"xmp-twitter-share":			{ "attribOption": [], "type": "flag" }
+	"xmp-twitter-share":			{ "attribOption": [], "type": "flag" },
+	"xmpTrustUrl":					{ "attribOption": [], "type": "flag" }
 }

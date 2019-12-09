@@ -3,7 +3,7 @@
     "title": "XMPie XMPL Brackets extension",
     "description": "Provides XMPie XMPL code snippets and code hints for Brackets",
     "homepage": "https://github.com/XMPieLab/SOMEWHERE",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "XMPie Users Everywhere",
     "license": "MIT",
     "engines": {

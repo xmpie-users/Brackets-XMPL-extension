@@ -104,7 +104,7 @@
     "section":    { "attributes": [] },
     "select":     { "attributes": ["autofocus", "disabled", "form", "multiple", "name", "required", "size", "ng-blur", "ng-copy",  "ng-cut",  "ng-model", "ng-options", "data-ng-blur", "data-ng-copy",  "data-ng-cut",  "data-ng-model", "data-ng-options","xmp-write-ador","xmp-default-value"] },
     "small":      { "attributes": [] },
-    "source":     { "attributes": ["media", "sizes", "src", "type", "srcset"] },
+    "source":     { "attributes": ["media", "ng-src", "sizes", "src", "type", "srcset", "xmpTrustUrl"] },
     "span":       { "attributes": ["xmp-class","xmp-show","xmp-text-asset","xmp-html-asset"] },
     "strong":     { "attributes": [] },
     "style":      { "attributes": ["disabled", "media", "scoped", "type"] },

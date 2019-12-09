@@ -574,9 +574,9 @@ define(function (require, exports, module) {
             
             //update the document
             var stringToInsert = '\n\t\t<!-- XMPie XMPL library -->\n\t\t';
-                stringToInsert += '<link href="https://ajax.xmcircle.com/ajax/libs/xmpl/3.1/xmp/css/xmp.css" rel="stylesheet" media="screen">\n\t\t';
-                stringToInsert += '<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>\n\t\t';
-                stringToInsert += '<script src="https://ajax.xmcircle.com/ajax/libs/xmpl/3.1/xmp/js/xmp.min.js"></script>\n\t\t';
+                stringToInsert += '<link href="https://ajax.xmcircle.com/ajax/libs/xmpl/3.1.4/xmp/css/xmp.css" rel="stylesheet" media="screen">\n\t\t';
+                stringToInsert += '<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>\n\t\t';
+                stringToInsert += '<script src="https://ajax.xmcircle.com/ajax/libs/xmpl/3.1.4/xmp/js/xmp.min.js"></script>\n\t\t';
                 stringToInsert += '<script src="./xmpcfg.js"></script>\n';
             var startPos = currentDoc.indexOf('</head>');
             var newdoc  = currentDoc.substring(0,startPos) + stringToInsert + currentDoc.substring(startPos);
