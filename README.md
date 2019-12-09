@@ -40,3 +40,8 @@ https://github.com/coliff/Brackets-HTML5CodeHints
 4) Drag the zip onto the panel, or click to "install from zip" and browse to the zip file.
 5) Enjoy!
 
+## Revision history
+
+* v0.0.1 - beta testing not released
+* v0.0.2 - first public release. 18 Oct 2019
+* v0.0.3 - updated with new XMPL v3.1.4 which supports later versions of JQuery (v3.4.1 instead of v1.10.2) and new parameter for XMPie Video Service. 9 Dec 2019
