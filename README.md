@@ -35,7 +35,7 @@ https://github.com/coliff/Brackets-HTML5CodeHints
 ## Installation instructions
 
 1) Download and install Adobe Brackets from http://brackets.io/
-2) Download the [Brackets-XMPie-XMPL-extension.zip](https://github.com/xmpie-users/Brackets-XMPL-extension/blob/master/zip/Brackets-XMPie-XMPL-Extension-v0.2.zip)
+2) Download the [Brackets-XMPie-XMPL-extension.zip](https://github.com/xmpie-users/Brackets-XMPL-extension/blob/master/zip/Brackets-XMPie-XMPL-Extension-v0.3.zip)
 3) Launch Brackets and select File -&gt; Extension manager
 4) Drag the zip onto the panel, or click to "install from zip" and browse to the zip file.
 5) Enjoy!
@@ -43,5 +43,5 @@ https://github.com/coliff/Brackets-HTML5CodeHints
 ## Revision history
 
 * v0.0.1 - beta testing not released
-* v0.0.2 - first public release. 18 Oct 2019
-* v0.0.3 - updated with new XMPL v3.1.4 which supports later versions of JQuery (v3.4.1 instead of v1.10.2) and new parameter for XMPie Video Service. 9 Dec 2019
+* v0.0.2 - first public release. (18 Oct 2019)
+* v0.0.3 - updated with new XMPL v3.1.4 which supports later versions of JQuery (v3.4.1 instead of v1.10.2) and new parameter for XMPie Video Service. (9 Dec 2019)
